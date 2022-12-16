@@ -1,1 +1,3 @@
 # IoT-based-Web-Controlled-Home-Automation-using-Raspberry-Pi
+
+One of the good things about the Raspberry Pi is the great ability and ease with which it gives you the opportunity to connect devices to the internet especially for Home Automation Related Projects.  Today we are going to explore the possibility of controlling AC appliances with the click of buttons on a webpage using internet. Using this IoT based home automation system, you can control your Home appliances from anywhere in the world. This web server can be run from any device which can run HTML applications, like Smart Phone, tablet, computer etc.
