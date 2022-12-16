@@ -14,7 +14,8 @@ LEDs to test.
 AC lamp to Test
 Breadboard and jumper cables
 220 or 100 ohms resistor
-II. Software Requirements:
+
+# II. Software Requirements:
 
 Asides the Raspbian Jessie operating system running on the raspberry pi, we will also be using the WebIOPi frame work, notepad++ running on your PC and filezila to copy files from the PC to the raspberry pi, especially the web app files.
 
