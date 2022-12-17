@@ -3,8 +3,8 @@
 One of the good things about the Raspberry Pi is the great ability and ease with which it gives you the opportunity to connect devices to the internet especially for Home Automation Related Projects.  Today we are going to explore the possibility of controlling AC appliances with the click of buttons on a webpage using internet. Using this IoT based home automation system, you can control your Home appliances from anywhere in the world. This web server can be run from any device which can run HTML applications, like Smart Phone, tablet, computer etc.
 # I. Hardware Requirements:
 
-Raspberry Pi 3 (Any other Version will be nice)
-Memory card 8 or 16GB running Raspbian Jessie
+Raspberry Pi 3 
+Memory card 8 or 16GB 
 5v Relays
 2n222 transistors
 Diodes
